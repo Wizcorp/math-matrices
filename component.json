@@ -1,0 +1,9 @@
+{
+	"name": "matrices",
+	"repo": "Wizcorp/math-matrices",
+	"version": "0.1.0",
+	"scripts": [
+		"index.js"
+	],
+	"license": "MIT"
+}
